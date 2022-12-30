@@ -1,0 +1,13 @@
+.container{
+    justify-content: center;
+    text-align: center;
+    text-shadow: 2px;
+    font-size: 25px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 10px;
+    background-color: purple;
+    background-image: url(IMG-20221216-WA0054.jpg);
+}
